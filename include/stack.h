@@ -14,7 +14,7 @@
 class Stack {
 private:
 
-    const int MAX_SIZE = 100000;
+    const int MAX_SIZE = 5000;
 
     int* elements;
     int topIndex = -1;

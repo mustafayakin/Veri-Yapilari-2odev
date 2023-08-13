@@ -34,7 +34,7 @@ int main() {
 
 
 
-        stackArr = new Stack[20];
+        stackArr = new Stack[200];
 
 
         stackArrIndex = 0;
